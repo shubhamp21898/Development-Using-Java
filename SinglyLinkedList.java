@@ -189,7 +189,7 @@ class SinglyLL
 	}
 }
 
-class Program263
+class SinglyLinkedList
 {
 	public static void main(String str[])
 	{
