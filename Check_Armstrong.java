@@ -41,7 +41,7 @@ class Marvellous
 		}
 	}
 }
-class Program142
+class Check_Armstrong
 {
 	public static void main(String arg[]) 
 	{
